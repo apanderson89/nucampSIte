@@ -7,12 +7,17 @@
     "lite": "lite-server",
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
- },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrew Anderson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apanderson89/BootstrapBootCamp.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apanderson89/BootstrapBootCamp/issues"
+  },
+  "homepage": "https://github.com/apanderson89/BootstrapBootCamp#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
